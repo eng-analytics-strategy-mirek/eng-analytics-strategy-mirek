@@ -20,8 +20,7 @@ I am a results-oriented professional specializing in the intersection of **engin
 
 ## 🚀 Featured Projects:
 
-The Tolerance Stackup Dispute
-**[![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/the%20tolerance%20stackup%20dispute.ipynb)**
+### The Tolerance Stackup Dispute  [![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/The%20tolerance%20stackup%20dispute.ipynb)
 * **The Problem:** Parts cracking on the assembly line, but supplier claiming the compoent parts are in spec.
 * **The Solution:** Developed a Python framework to analyze the supplier quality check reports and the sensor data from our assembly line. Used the F-test, correlation matrix and scatter plot to find the root cause.
 * **The Result:**  Confirmed that the supplier's fabrication process and our assembly process can both be in spec and still produce unacceptable final product. Established a data-driven strategy for supplier intervention.
@@ -30,7 +29,7 @@ The 'Red Zone' Logic: I showed a scatter plot where I overlaid the supplier's di
 The Proof: The failures only happened in the 'Top-Right' corner of the plot—where the supplier was at their maximum allowable limit and we were at our maximum allowable force. Individually, both were 'legal,' but combined, they exceeded the material's physical yield point.
 By identifying this, I implemented Selective Assembly to pair those parts differently.
 
-The AI Driven Supplier Optimization
+### The AI Driven Supplier Optimization  [![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/The%20AI%20driven%supplier%20optimization.ipynb)
 
 In this project, I act as an Analytical Strategist to solve a classic manufacturing bottleneck: Supplier 8D response delays. Using a synthetic dataset of 500+ quality reports, I built a Python-based Predictive Model to identify the hidden drivers of resolution latency.
 + Technical Stack: Python (Pandas, Scikit-Learn), Random Forest
