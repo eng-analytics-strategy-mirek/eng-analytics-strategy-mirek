@@ -19,7 +19,7 @@ I am a results-oriented professional specializing in the intersection of **engin
 ---
 
 ## 🚀 Featured Project: The Tolerance Stackup Dispute
-**[![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](Supplier_Dispute_Analysis.ipynb)(https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/the%20tolerance%20stackup%20dispute.ipynb)**
+**[![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/the%20tolerance%20stackup%20dispute.ipynb)**
 * **The Problem:** Parts cracking on the assembly line, but supplier claiming the compoent parts are in spec.
 * **The Solution:** Developed a Python framework to analyze the supplier quality check reports and the sensor data from our assembly line. Used the F-test, correlation matrix and scatter plot to find the root cause.
 * **The Result:**  Confirmed that the supplier's fabrication process and our assembly process can both be in spec and still produce unacceptable final product. Established a data-driven strategy for supplier intervention.
