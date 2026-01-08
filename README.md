@@ -35,7 +35,7 @@ I am a results-oriented professional specializing in the intersection of **engin
 
 ## 📫 Let's Connect!
 * **LinkedIn:** [Your LinkedIn URL]
-* **Portfolio:** [Your Portfolio URL or "In Progress"]
+* **Portfolio:** "In Progress"
 * **Email:** miroslaw.owinski@gmail.com
 
 ---
