@@ -18,11 +18,16 @@ I am a results-oriented professional specializing in the intersection of **engin
 
 ---
 
-## 🚀 Featured Project: AI-Driven 8D Supplier Optimization
+## 🚀 Featured Project: The Tolerance Stackup Dispute
 **[Link to Repository Here]**
 * **The Problem:** High latency in supplier 8D responses causing production delays.
 * **The Solution:** Developed a Python framework to analyze 500+ reports, using **Random Forest** to predict high-risk bottlenecks.
 * **The Result:** Identified a 20% latency gap in D4 (Root Cause) and established a data-driven strategy for supplier intervention.
+The F-Test Evidence: I ran a Levene’s test to compare the variance of our assembly press against the supplier’s machining line. If our press had a calibration error, we would have seen a massive 'spike' in variance (a high F-statistic). Instead, the data showed both processes were statistically stable.
+The 'Red Zone' Logic: I showed a scatter plot where I overlaid the supplier's diameter on the X-axis and our press force on the Y-axis. What we discovered was a Tolerance Stack-up.
+The Proof: The failures only happened in the 'Top-Right' corner of the plot—where the supplier was at their maximum allowable limit and we were at our maximum allowable force. Individually, both were 'legal,' but combined, they exceeded the material's physical yield point.
+
+By identifying this, I implemented Selective Assembly to pair those parts differently."
 
 ---
 
