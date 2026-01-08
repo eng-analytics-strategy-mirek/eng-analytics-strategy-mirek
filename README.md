@@ -1,4 +1,4 @@
-# Hi there, I'm Mioslaw (Mirek) Owinski 👋
+# Hi there, I'm Miroslaw (Mirek) Owinski 👋
 ### Analytical Strategist | Engineering Foundations | Advanced Data Analytics
 
 I am a results-oriented professional specializing in the intersection of **engineering principles** and **predictive analytics**. With a background in complex operational environments and a certification in **Google Advanced Data Analytics**, I thrive on translating raw data into actionable strategies that mitigate risk and drive organizational excellence.
