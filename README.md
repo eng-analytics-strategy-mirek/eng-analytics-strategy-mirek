@@ -18,7 +18,9 @@ I am a results-oriented professional specializing in the intersection of **engin
 
 ---
 
-## 🚀 Featured Project: The Tolerance Stackup Dispute
+## 🚀 Featured Projects:
+
+The Tolerance Stackup Dispute
 **[![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/the%20tolerance%20stackup%20dispute.ipynb)**
 * **The Problem:** Parts cracking on the assembly line, but supplier claiming the compoent parts are in spec.
 * **The Solution:** Developed a Python framework to analyze the supplier quality check reports and the sensor data from our assembly line. Used the F-test, correlation matrix and scatter plot to find the root cause.
@@ -27,6 +29,17 @@ The F-Test Evidence: I ran a Levene’s test to compare the variance of our asse
 The 'Red Zone' Logic: I showed a scatter plot where I overlaid the supplier's diameter on the X-axis and our press force on the Y-axis. What we discovered was a Tolerance Stack-up.
 The Proof: The failures only happened in the 'Top-Right' corner of the plot—where the supplier was at their maximum allowable limit and we were at our maximum allowable force. Individually, both were 'legal,' but combined, they exceeded the material's physical yield point.
 By identifying this, I implemented Selective Assembly to pair those parts differently.
+
+The AI Driven Supplier Optimization
+In this project, I act as an Analytical Strategist to solve a classic manufacturing bottleneck: Supplier 8D response delays. Using a synthetic dataset of 500+ quality reports, I built a Python-based Predictive Model to identify the hidden drivers of resolution latency.
++Technical Stack: Python (Pandas, Scikit-Learn), Random Forest
++Regressor, and Statistical Outlier Detection.
++Strategic Insight: Identified "Supplier Past-Due History" and "Component Category" as the primary predictors of delay—not just defect severity.
++Business ROI: Proposed a data-driven triage system to reduce Mean Time to Resolve (MTTR) by prioritizing high-risk bottlenecks.
++Process: Statistical Hypothesis Testing: Hypothesis: Does Supplier Tier significantly impact 8D resolution latency?
+Null Hypothesis ( H0 ): There is no difference in mean resolution time between Tier 1 and Tier 3 suppliers.
+Alternative Hypothesis ( Ha ): Tier 3 suppliers take significantly longer to resolve 8Ds than Tier 1 suppliers.
+Confidence Level: 95% ( α=0.05 )
 
 ---
 
