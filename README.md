@@ -18,9 +18,6 @@ I am a results-oriented professional specializing in the intersection of **engin
 
 ---
 
-
-https://github.com/user-attachments/assets/c1e4b8f5-753f-4822-b325-571dd76e69bb
-
 ## 🚀 Featured Projects:
 
 ### The Tolerance Stackup Dispute  [![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/The%20tolerance%20stackup%20dispute.ipynb)
@@ -45,6 +42,52 @@ In this project, I act as an Analytical Strategist to solve a classic manufactur
   + Alternative Hypothesis ( Ha ): Tier 3 suppliers take significantly longer to resolve 8Ds than Tier 1 suppliers.
   + Confidence Level: 95% ( α=0.05 )
 
+### Ticker Watcher: Interactive DJIA Analytics Suite
+
+Ticker Watcher is a high-performance Streamlit dashboard designed to provide deep-dive analytics into the components of the Dow Jones Industrial Average (DJIA). By bridging the gap between raw financial data and strategic visualization, this app allows users to analyze risk, return, and volatility through an intuitive, multi-tab interface.
+🚀 Features
+1. Dynamic Performance Monitoring
+
+    Component Selection: Pull-down menu to isolate specific DJIA assets.
+
+    Flexible Horizons: Time-series adjustment via interactive buttons (1M, 6M, YTD, 1Y, 5Y).
+
+    Returns Analysis: Real-time calculation of pricing trends and percentage returns.
+
+2. Multi-Dimensional Exploration (Four-Tab View)
+
+    📈 Pricing & Returns: Visualizes price action alongside period-over-period percentage growth.
+
+    📄 Raw Data: Full transparency with searchable, filterable data tables for deep inspection.
+
+    🌐 3D Risk-Reward Matrix: An interactive 3D scatter plot mapping assets across:
+
+        Total Return
+
+        Sharpe Ratio (Risk-adjusted return)
+
+        Volatility (Standard deviation)
+
+    📊 Rolling Odds Chart: Visualizes probability distributions and rolling performance metrics over time.
+
+https://github.com/user-attachments/assets/c1e4b8f5-753f-4822-b325-571dd76e69bb
+
+🛠️ Technical Stack
+
+    Language: Python 3.x
+
+    Framework: Streamlit
+
+    Data Handling: Pandas, NumPy
+
+    Visualization: Plotly (3D engine), Matplotlib
+
+    API Integration: Yahoo Finance (yfinance)
+
+
+🧠 Strategic Intent
+
+This project serves as a bridge between Engineering Precision and Financial Strategy. By applying root-cause analysis mindsets to market volatility, Ticker Watcher demonstrates how "black box" financial metrics can be translated into clear, actionable investment narratives.
 ---
 
 ## 📊 Performance Analytics
