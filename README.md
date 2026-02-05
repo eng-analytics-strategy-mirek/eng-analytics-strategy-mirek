@@ -88,6 +88,7 @@ https://github.com/user-attachments/assets/c1e4b8f5-753f-4822-b325-571dd76e69bb
 🧠 Strategic Intent
 
 This project serves as a bridge between Engineering Precision and Financial Strategy. By applying root-cause analysis mindsets to market volatility, Ticker Watcher demonstrates how "black box" financial metrics can be translated into clear, actionable investment narratives.
+
 ---
 
 ## 📊 Performance Analytics
