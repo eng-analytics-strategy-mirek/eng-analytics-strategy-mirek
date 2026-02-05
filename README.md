@@ -18,6 +18,9 @@ I am a results-oriented professional specializing in the intersection of **engin
 
 ---
 
+
+https://github.com/user-attachments/assets/c1e4b8f5-753f-4822-b325-571dd76e69bb
+
 ## 🚀 Featured Projects:
 
 ### The Tolerance Stackup Dispute  [![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/eng-analytics-strategy-mirek/eng-analytics-strategy-mirek/blob/main/The%20tolerance%20stackup%20dispute.ipynb)
