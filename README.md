@@ -42,7 +42,7 @@ In this project, I act as an Analytical Strategist to solve a classic manufactur
   + Alternative Hypothesis ( Ha ): Tier 3 suppliers take significantly longer to resolve 8Ds than Tier 1 suppliers.
   + Confidence Level: 95% ( α=0.05 )
 
-### Ticker Watcher: Interactive DJIA Analytics Suite
+### Ticker Watcher: Interactive DJIA Analytics Suite [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
 
 Ticker Watcher is a high-performance Streamlit dashboard designed to provide deep-dive analytics into the components of the Dow Jones Industrial Average (DJIA). By bridging the gap between raw financial data and strategic visualization, this app allows users to analyze risk, return, and volatility through an intuitive, multi-tab interface.
 🚀 Features
